@@ -1,0 +1,22 @@
+{
+  "name": "covid-nasa",
+  "version": "1.0.0",
+  "description": "Just any other project :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushmankumar7/covid-nasa.git"
+  },
+  "author": "Ayushman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayushmankumar7/covid-nasa/issues"
+  },
+  "homepage": "https://github.com/ayushmankumar7/covid-nasa#readme",
+  "dependencies": {
+    "tailwindcss": "^1.4.6"
+  }
+}
