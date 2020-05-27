@@ -4,7 +4,7 @@
   "description": "Just any other project :)",
   "main": "index.js",
   "scripts": {
-    "build:css": "tailwind build src/style.css -o dist/static/css/style.css"
+    "build:css": "tailwind build src/style.css -o public/static/css/style.css"
   },
   "repository": {
     "type": "git",
