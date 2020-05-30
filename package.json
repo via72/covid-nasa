@@ -4,7 +4,8 @@
   "description": "Just any other project :)",
   "main": "index.js",
   "scripts": {
-    "build:css": "tailwind build src/style.css -o public/static/css/style.css"
+    "build:css": "tailwind build src/style.css -o public/static/css/style.css",
+    "start": "python3 wsgi.py"
   },
   "repository": {
     "type": "git",

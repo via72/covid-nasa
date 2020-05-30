@@ -1,8 +1,12 @@
 # NASA_Cov19
 > Just another project. :)
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/made-with-python.svg">
+</p>
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
+
 
 
 Consider climatic conditions to evaluate the spead of Covid-19.
@@ -38,10 +42,12 @@ Python3 and pip should be installed.
 ```sh
 pip install virtualenv
 virtualenv nasa
-source nasa/bin/activate
+source nasa/bin/activate (for Linux and Mac)
+\nasa\Scripts\activate (for Windows)
 
 pip install -r requirements.txt
-python3 wsgi.py
+python wsgi.py (for Windows)
+python3 wsgi.py (for Linux)
 ```
 
 
