@@ -42,7 +42,8 @@ source nasa/bin/activate (for Linux and Mac)
 \nasa\Scripts\activate (for Windows)
 
 pip install -r requirements.txt
-python3 wsgi.py
+python wsgi.py (for Windows)
+python3 wsgi.py (for Linux)
 ```
 
 
