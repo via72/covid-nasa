@@ -38,7 +38,8 @@ Python3 and pip should be installed.
 ```sh
 pip install virtualenv
 virtualenv nasa
-source nasa/bin/activate
+source nasa/bin/activate (for Linux and Mac)
+\nasa\Scripts\activate (for Windows)
 
 pip install -r requirements.txt
 python3 wsgi.py
