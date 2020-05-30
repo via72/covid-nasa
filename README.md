@@ -3,10 +3,10 @@
 <p align="center">
   <img src="https://forthebadge.com/images/badges/made-with-python.svg">
 </p>
-<p align="center">
+
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
-</p>
+
 
 
 Consider climatic conditions to evaluate the spead of Covid-19.
